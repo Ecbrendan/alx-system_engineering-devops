@@ -1,1 +1,1 @@
-This is an assignment on system engineering
+Doing the hard things
